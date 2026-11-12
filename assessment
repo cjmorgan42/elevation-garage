@@ -519,10 +519,10 @@
       <ul class="invest-list">
         <li>20 pages from 5 page designs</li>
         <li>Built for local search, with schema markup</li>
-        <li>Real photography of your shop and your builds</li>
+        <li>Built with your photos of the shop and your finished builds</li>
         <li>Google Business Profile and directory listings set up to match</li>
         <li>Webflow platform, with Google Analytics and Search Console</li>
-        <li>Monthly hosting not included</li>
+        <li>First year of hosting included</li>
       </ul>
       <details class="more">
         <summary>The 20 pages</summary>
@@ -537,19 +537,20 @@
     </div>
     <div class="invest-total">
       <span>20-Page Website</span>
-      <span class="invest-total-num">$3,000</span>
+      <span class="invest-total-num">$3,500</span>
     </div>
 
     <div class="invest-phase">Base Option</div>
 
     <div class="invest-block">
       <div class="invest-block-head">5-Page Rebuild</div>
-      <p class="invest-desc">Your current five pages, rebuilt with the new identity, real imagery, and more depth on each.</p>
+      <p class="invest-desc">Your current five pages, rebuilt with the new identity, your own photos, and more depth on each.</p>
     </div>
     <div class="invest-total">
       <span>5-Page Rebuild</span>
       <span class="invest-total-num">$1,500</span>
     </div>
+    <p class="src-note" style="margin-top:18px;">Both options include the first year of hosting. After that, hosting is $50 a month.</p>
   </div>
 </section>
 
